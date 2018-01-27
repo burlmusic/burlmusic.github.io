@@ -26,6 +26,7 @@
 }
 .introduction-icons a {
   color: #222;
+  margin: 0 0.5em;
 }
 .introduction-icons a:hover {
   color: #333;
